@@ -1,0 +1,401 @@
+AT_Offer_Id;AT_Date_Start;AT_Date_End;AT_Periode;AT_Speciality;AT_Post;AT_Region;AT_City;AT_Salary;AT_Requested_competences;AT_Type_contract;AT_level_experience
+0;1/12/19 8:05 PM;2/8/19 8:46 PM;6 mois;Informatique;Développeur;Morocco;Tanger;1500;['confidentialité', 'php', 'SGBD'];null;Debutant
+1;1/1/19 1:59 PM;01/31/2019 11:08 AM;5 ans;Marketing;Community manager;France;Toulouse;4000;['organisation', 'esprit d’équipe', 'rigueur', 'confidentialité'];CUI;3 ans
+2;1/11/19 4:49 PM;02/15/2019 10:27 AM;3 ans;Marketing;Responsable marketing;Algeria;Alger;14000;['rigueur'];CA;4 ans
+3;1/10/19 10:27 AM;01/29/2019 07:43 PM;1 an;Commercial/vente;autres_commercial;Morocco;Meknes;9000;['esprit d’équipe', 'organisation', 'confidentialité', 'rigueur'];CDI;5 ans
+4;1/6/19 9:07 PM;1/11/19 7:36 PM;6 mois;Tourisme;Hôtesse;France;Toulouse;1000;['confidentialité', 'organisation', 'rigueur', 'esprit d’équipe'];null;Debutant
+5;01/27/2019 05:13 PM;2/2/19 12:49 PM;3 ans;Commercial/vente;autres_commercial;Morocco;Casablanca;6000;['esprit d’équipe'];CDI;3 ans
+6;01/29/2019 09:32 PM;2/8/19 11:03 AM;5 ans;Marketing;autres_marketing;Algeria;Annaba;8000;['confidentialité', 'rigueur', 'esprit d’équipe', 'organisation'];CP;4 ans
+7;01/25/2019 08:26 AM;2/5/19 12:53 PM;18 mois;RH;Consultant RH;Algeria;Annaba;12000;['good presentation'];CA;4 ans
+8;01/25/2019 04:54 AM;02/26/2019 12:06 PM;6 mois;Marketing;autres_marketing;Espagne;Barcelone;1000;['esprit d’équipe'];null;Debutant
+9;1/3/19 8:48 AM;02/17/2019 11:08 PM;6 mois;Marketing;Community manager;France;Marseille;1500;['confidentialité', 'esprit d’équipe', 'organisation', 'rigueur'];null;Debutant
+10;01/14/2019 10:25 AM;02/20/2019 01:55 AM;1 an;Commercial/vente;Télévendeur;Morocco;Agadir;15000;['esprit d’équipe'];CP;1 an
+11;01/25/2019 11:38 PM;02/27/2019 11:35 PM;3 ans;RH;autres_RH;Morocco;Rabat;4500;['organisation', 'rigueur', 'esprit d’équipe', 'confidentialité'];CP;2 ans
+12;01/26/2019 03:33 PM;2/3/19 1:11 AM;18 mois;Commercial/vente;autres_commercial;Espagne;Barcelone;10000;['confidentialité', 'esprit d’équipe', 'organisation', 'rigueur'];CA;4 ans
+13;01/16/2019 03:12 AM;01/29/2019 07:06 PM;18 mois;Tourisme;Hôtesse;Morocco;Marakech;4500;['rigueur'];CTT;2 ans
+14;01/14/2019 04:11 PM;02/22/2019 03:32 PM;1 an;RH;Responsable recrutemment;Espagne;Madrid;4500;['organisation', 'rigueur'];CP;1 an
+15;1/6/19 7:11 PM;02/16/2019 11:57 PM;3 ans;Commercial/vente;Télévendeur;France;Toulouse;11000;['confidentialité', 'esprit d’équipe', 'organisation', 'rigueur'];CDD;4 ans
+16;1/8/19 8:00 AM;02/22/2019 03:07 AM;2 ans;Marketing;autres_marketing;Algeria;Annaba;5000;['rigueur', 'organisation', 'esprit d’équipe', 'confidentialité'];CTT;3 ans
+17;01/23/2019 06:47 AM;02/19/2019 09:18 PM;3 ans;Informatique;Technicien;France;Lyon;13000;['organisation', 'esprit d’équipe', 'confidentialité'];CUI;2 ans
+18;01/22/2019 09:50 AM;2/3/19 10:03 AM;18 mois;Marketing;Community manager;Espagne;Barcelone;9000;['initiative', 'confidentialité', 'organisation', 'good presentation', 'rigueur', 'esprit d’équipe'];CUI;1 an
+19;01/24/2019 08:07 PM;2/2/19 12:36 AM;6 mois;Production/maintenance;Technicien;France;Paris;2500;['esprit d’équipe', 'organisation', 'confidentialité'];null;Debutant
+20;01/30/2019 02:52 PM;2/10/19 1:46 PM;18 mois;Production/maintenance;autres_production;France;Lyon;5000;['rigueur', 'organisation', 'esprit d’équipe'];CUI;2 ans
+21;01/27/2019 03:43 AM;2/11/19 3:14 PM;2 ans;Tourisme;Restauration;Algeria;Alger;14000;['confidentialité', 'organisation', 'rigueur', 'esprit d’équipe'];CP;4 ans
+22;01/25/2019 06:47 AM;02/27/2019 11:10 PM;3 ans;Tourisme;autres_tourisme;Algeria;Alger;9000;['rigueur', 'organisation', 'esprit d’équipe', 'confidentialité'];CA;2 ans
+23;01/24/2019 11:45 AM;2/2/19 6:35 AM;2 ans;Marketing;Community manager;France;Toulouse;10000;['organisation'];CDI;2 ans
+24;1/7/19 8:55 AM;02/18/2019 03:26 AM;3 ans;Marketing;Community manager;Morocco;Rabat;13000;['organisation', 'java', 'confidentialité', 'SGBD'];CDI;1 an
+25;1/10/19 3:19 PM;02/18/2019 12:35 AM;1 an;RH;autres_RH;Espagne;Barcelone;15000;['organisation'];CP;1 an
+26;1/3/19 12:12 PM;2/5/19 5:27 PM;6 mois;Production/maintenance;autres_production;Algeria;Annaba;2000;['organisation'];null;Debutant
+27;01/13/2019 03:32 PM;01/17/2019 11:29 PM;6 mois;Informatique;autres_informatique;France;Marseille;3000;['esprit d’équipe', 'rigueur', 'office'];null;Debutant
+28;01/17/2019 10:31 AM;02/28/2019 09:05 PM;6 mois;Commercial/vente;autres_commercial;France;Paris;1500;['confidentialité', 'rigueur', 'esprit d’équipe', 'organisation'];null;Debutant
+29;01/20/2019 09:55 PM;02/25/2019 06:18 AM;3 ans;RH;autres_RH;Algeria;Annaba;10000;['organisation', 'esprit d’équipe'];CDD;4 ans
+30;01/27/2019 02:30 AM;02/24/2019 04:50 PM;1 an;Production/maintenance;autres_production;Morocco;Marakech;7000;['rigueur'];CDI;5 ans
+31;01/14/2019 08:11 AM;01/18/2019 09:26 AM;6 mois;RH;Responsable recrutemment;France;Toulouse;2000;['initiative', 'organisation', 'good presentation', 'rigueur'];null;Debutant
+32;01/28/2019 06:03 AM;02/17/2019 10:46 AM;5 ans;Production/maintenance;Comptable;France;Marseille;4000;['esprit d’équipe', 'rigueur'];CP;1 an
+33;01/13/2019 09:27 AM;01/19/2019 10:47 PM;3 ans;RH;autres_RH;France;Paris;15000;['good presentation', 'initiative', 'esprit d’équipe', 'organisation'];CDI;5 ans
+34;01/22/2019 11:36 PM;02/25/2019 07:43 AM;1 an;Commercial/vente;autres_commercial;Algeria;Annaba;4500;['confidentialité'];CDI;1 an
+35;01/25/2019 10:16 PM;01/31/2019 12:13 AM;6 mois;Marketing;Community manager;Morocco;Agadir;2000;['rigueur', 'organisation'];null;Debutant
+36;01/19/2019 02:42 PM;2/6/19 8:20 PM;6 mois;RH;Consultant RH;France;Paris;3000;['esprit d’équipe', 'confidentialité', 'organisation'];null;Debutant
+37;01/14/2019 05:32 PM;2/6/19 10:49 PM;6 mois;Informatique;Technicien;Espagne;Madrid;1000;['rigueur', 'organisation', 'esprit d’équipe', 'confidentialité'];null;Debutant
+38;1/1/19 2:01 PM;1/7/19 1:34 PM;3 ans;RH;Consultant RH;Morocco;Marakech;11000;['office'];CA;3 ans
+39;1/7/19 12:05 PM;2/2/19 12:03 PM;18 mois;Marketing;Responsable marketing;Morocco;Marakech;6000;['java', 'organisation', 'confidentialité', 'python', 'php', 'SGBD', 'R'];CP;5 ans
+40;1/8/19 7:52 PM;2/1/19 12:10 AM;5 ans;RH;Responsable recrutemment;Espagne;Madrid;5000;['confidentialité'];CTT;3 ans
+41;01/13/2019 04:34 AM;01/30/2019 12:24 PM;5 ans;Tourisme;Hôtesse;Algeria;Annaba;11000;['organisation', 'esprit d’équipe', 'confidentialité'];CA;1 an
+42;01/20/2019 04:26 PM;02/25/2019 04:26 AM;2 ans;Informatique;Ingénieur;Espagne;Madrid;11000;['organisation'];CTT;5 ans
+43;1/12/19 8:47 PM;01/20/2019 12:40 AM;6 mois;Tourisme;Hôtesse;Morocco;Casablanca;1000;['comptabilité'];null;Debutant
+44;01/17/2019 02:47 AM;2/9/19 9:02 AM;1 an;RH;autres_RH;Algeria;Annaba;10000;['confidentialité', 'rigueur'];CUI;5 ans
+45;01/16/2019 06:42 PM;02/21/2019 05:25 AM;2 ans;Marketing;Responsable marketing;Morocco;Agadir;10000;['confidentialité', 'esprit d’équipe', 'comptabilité'];CP;1 an
+46;01/30/2019 10:24 PM;02/22/2019 03:52 PM;6 mois;Tourisme;autres_tourisme;Espagne;Madrid;3000;['rigueur', 'confidentialité'];null;Debutant
+47;01/31/2019 07:23 PM;3/1/19 1:31 AM;5 ans;RH;autres_RH;France;Lyon;13000;['organisation', 'esprit d’équipe', 'confidentialité', 'rigueur'];CDI;5 ans
+48;01/20/2019 12:23 AM;01/28/2019 09:52 PM;6 mois;RH;autres_RH;France;Lyon;2500;['esprit d’équipe'];null;Debutant
+49;01/26/2019 09:37 AM;2/9/19 10:00 AM;18 mois;Commercial/vente;Télévendeur;Morocco;Marakech;15000;['organisation', 'rigueur', 'confidentialité', 'esprit d’équipe'];CTT;4 ans
+50;01/16/2019 01:56 PM;01/23/2019 12:15 AM;6 mois;Commercial/vente;Responsable commercial;Algeria;Annaba;3000;['organisation'];null;Debutant
+51;1/6/19 12:21 AM;02/16/2019 10:56 PM;18 mois;Marketing;Community manager;France;Toulouse;12000;['confidentialité'];CUI;2 ans
+52;1/9/19 6:10 AM;02/20/2019 12:43 AM;6 mois;Production/maintenance;Comptable;Morocco;Casablanca;1000;['php', 'SGBD', 'confidentialité', '.net'];null;Debutant
+53;01/26/2019 09:40 PM;2/11/19 8:49 PM;6 mois;Marketing;Community manager;France;Paris;2500;['esprit d’équipe', 'organisation', 'confidentialité'];null;Debutant
+54;01/20/2019 08:23 AM;2/6/19 8:29 AM;6 mois;Marketing;autres_marketing;Algeria;Alger;2000;['rigueur', 'esprit d’équipe', 'confidentialité', 'organisation'];null;Debutant
+55;01/14/2019 09:19 PM;01/15/2019 03:05 PM;6 mois;Informatique;Ingénieur;Morocco;Rabat;2000;['confidentialité', 'rigueur', 'esprit d’équipe', 'organisation'];null;Debutant
+56;1/9/19 3:17 PM;01/21/2019 03:12 PM;3 ans;Marketing;Responsable marketing;Morocco;Meknes;13000;['esprit d’équipe'];CP;1 an
+57;1/4/19 12:35 PM;02/26/2019 05:30 AM;6 mois;Informatique;Ingénieur;France;Marseille;2000;['esprit d’équipe'];null;Debutant
+58;01/19/2019 06:16 AM;01/20/2019 01:29 PM;18 mois;RH;autres_RH;Morocco;Tanger;6000;['initiative', 'good presentation', 'organisation', 'esprit d’équipe', 'rigueur', 'confidentialité'];CTT;4 ans
+59;1/6/19 6:56 PM;02/19/2019 04:57 AM;18 mois;Tourisme;autres_tourisme;Morocco;Agadir;6000;['esprit d’équipe', 'organisation', 'confidentialité'];CTT;5 ans
+60;1/9/19 11:53 PM;02/25/2019 07:48 AM;1 an;Commercial/vente;autres_commercial;Algeria;Alger;10000;['esprit d’équipe', 'php', 'java', 'organisation', '.net', 'rigueur', 'confidentialité', 'python'];CP;5 ans
+61;01/17/2019 12:32 AM;2/1/19 5:43 AM;6 mois;Marketing;autres_marketing;France;Paris;2500;['esprit d’équipe'];null;Debutant
+62;1/7/19 1:28 PM;02/21/2019 11:41 PM;6 mois;Commercial/vente;Responsable commercial;Espagne;Barcelone;1000;['good presentation', 'esprit d’équipe', 'organisation', 'initiative'];null;Debutant
+63;1/2/19 3:46 PM;01/30/2019 05:52 AM;3 ans;Tourisme;Hôtesse;Morocco;Tanger;7000;['organisation'];CDI;3 ans
+64;01/13/2019 10:48 AM;01/25/2019 03:43 PM;1 an;Production/maintenance;autres_production;Espagne;Barcelone;15000;['confidentialité'];CA;4 ans
+65;01/26/2019 04:40 AM;2/3/19 10:06 PM;5 ans;RH;Consultant RH;Morocco;Rabat;6000;['rigueur', 'confidentialité', 'esprit d’équipe'];CTT;4 ans
+66;1/3/19 11:58 PM;01/22/2019 02:23 PM;5 ans;Marketing;autres_marketing;France;Paris;11000;['esprit d’équipe'];CP;4 ans
+67;1/10/19 12:24 AM;2/12/19 2:39 AM;3 ans;Commercial/vente;Télévendeur;Morocco;Marakech;5000;['esprit d’équipe', 'organisation', 'rigueur', 'confidentialité'];CTT;3 ans
+68;1/12/19 6:20 PM;01/15/2019 10:06 AM;2 ans;Commercial/vente;Télévendeur;Espagne;Barcelone;4000;['esprit d’équipe', 'organisation', 'rigueur'];CUI;5 ans
+69;1/5/19 9:23 PM;2/2/19 8:33 PM;6 mois;Commercial/vente;Télévendeur;Morocco;Rabat;1000;['organisation'];null;Debutant
+70;01/19/2019 04:57 AM;01/27/2019 07:36 AM;6 mois;Production/maintenance;autres_production;France;Lyon;1500;['confidentialité', 'rigueur'];null;Debutant
+71;1/3/19 8:55 AM;1/7/19 8:27 PM;5 ans;Marketing;Community manager;Algeria;Annaba;12000;['esprit d’équipe', 'rigueur'];CA;1 an
+72;01/22/2019 06:23 AM;02/14/2019 10:14 PM;5 ans;Tourisme;Restauration;France;Lyon;12000;['esprit d’équipe', 'confidentialité', 'organisation', 'office', 'comptabilité', 'rigueur', 'calcul'];CA;4 ans
+73;01/17/2019 11:52 PM;01/31/2019 07:15 PM;3 ans;Tourisme;Restauration;Algeria;Alger;9000;['rigueur', 'organisation'];CP;1 an
+74;1/5/19 7:54 PM;02/23/2019 11:42 AM;18 mois;Production/maintenance;Technicien;Espagne;Madrid;8000;['organisation', 'confidentialité'];CDD;1 an
+75;1/4/19 3:48 AM;02/22/2019 02:24 AM;6 mois;Marketing;Responsable marketing;Algeria;Annaba;3000;['organisation', 'esprit d’équipe', 'confidentialité', 'rigueur'];null;Debutant
+76;01/22/2019 08:50 AM;2/1/19 11:28 AM;6 mois;Commercial/vente;autres_commercial;Algeria;Alger;2500;['organisation'];null;Debutant
+77;1/4/19 6:47 PM;1/11/19 6:36 PM;6 mois;RH;Responsable recrutemment;France;Lyon;2500;['SGBD', 'R', 'java', 'python', '.net'];null;Debutant
+78;1/8/19 7:12 PM;01/30/2019 07:34 AM;5 ans;Commercial/vente;Responsable commercial;France;Paris;10000;['esprit d’équipe', 'initiative', 'organisation', 'confidentialité'];CDI;5 ans
+79;1/9/19 7:45 PM;01/19/2019 12:12 PM;2 ans;RH;Consultant RH;Algeria;Annaba;4500;['confidentialité', 'organisation', 'rigueur', 'esprit d’équipe'];CP;4 ans
+80;01/21/2019 09:49 PM;2/11/19 5:30 AM;3 ans;Production/maintenance;Comptable;Morocco;Casablanca;11000;['rigueur', 'organisation'];CA;2 ans
+81;1/8/19 6:34 AM;01/22/2019 06:50 AM;6 mois;Commercial/vente;Télévendeur;France;Toulouse;2000;['.net', 'python', 'esprit d’équipe', 'confidentialité', 'R', 'SGBD', 'organisation', 'php', 'java', 'rigueur'];null;Debutant
+82;01/31/2019 04:21 PM;02/27/2019 07:06 PM;5 ans;Production/maintenance;Technicien;Espagne;Barcelone;14000;['organisation', 'confidentialité'];CDD;3 ans
+83;01/28/2019 12:50 PM;02/25/2019 03:19 AM;6 mois;Informatique;Ingénieur;Algeria;Annaba;3000;['confidentialité', 'rigueur'];null;Debutant
+84;1/7/19 8:43 AM;02/22/2019 12:38 PM;18 mois;Informatique;Développeur;France;Toulouse;5000;['organisation', 'rigueur', 'confidentialité', 'initiative', 'good presentation', 'esprit d’équipe'];CDI;1 an
+85;01/16/2019 08:53 AM;02/14/2019 11:39 PM;5 ans;Informatique;autres_informatique;France;Marseille;15000;['esprit d’équipe', 'rigueur', 'organisation'];CDI;2 ans
+86;1/5/19 2:27 AM;01/27/2019 06:50 AM;18 mois;Marketing;Responsable marketing;Espagne;Barcelone;5000;['rigueur', 'organisation', 'confidentialité'];CP;2 ans
+87;01/23/2019 10:11 PM;2/9/19 3:02 AM;3 ans;Production/maintenance;Technicien;France;Toulouse;8000;['organisation', 'rigueur'];CA;2 ans
+88;1/4/19 3:37 PM;02/27/2019 02:32 AM;6 mois;Commercial/vente;Télévendeur;France;Lyon;2000;['confidentialité'];null;Debutant
+89;01/14/2019 08:38 PM;2/2/19 3:18 PM;18 mois;Informatique;Technicien;Morocco;Rabat;8000;['confidentialité'];CA;3 ans
+90;1/4/19 3:26 AM;02/14/2019 03:06 AM;2 ans;RH;Responsable recrutemment;France;Toulouse;6000;['esprit d’équipe', 'calcul'];CA;3 ans
+91;01/29/2019 10:26 PM;2/12/19 10:14 PM;5 ans;Marketing;Community manager;France;Marseille;12000;['organisation', 'esprit d’équipe', 'rigueur'];CUI;4 ans
+92;01/19/2019 01:44 PM;2/11/19 3:37 PM;5 ans;Tourisme;autres_tourisme;Algeria;Alger;4000;['esprit d’équipe', 'confidentialité'];CDD;1 an
+93;01/17/2019 05:26 AM;02/20/2019 09:13 AM;2 ans;Tourisme;Hôtesse;Algeria;Alger;6000;['rigueur', 'esprit d’équipe'];CDI;1 an
+94;1/2/19 3:43 PM;01/27/2019 07:13 AM;18 mois;Tourisme;Hôtesse;Morocco;Tanger;11000;['rigueur', 'confidentialité', 'esprit d’équipe', 'organisation'];CP;3 ans
+95;1/1/19 7:56 PM;1/5/19 12:11 AM;6 mois;Production/maintenance;Comptable;Algeria;Alger;1000;['confidentialité', 'organisation'];null;Debutant
+96;1/10/19 6:58 AM;02/24/2019 01:56 PM;3 ans;Production/maintenance;Technicien;Morocco;Casablanca;8000;['confidentialité', 'rigueur', 'esprit d’équipe', 'organisation'];CP;5 ans
+97;01/25/2019 12:36 PM;02/17/2019 03:27 PM;1 an;RH;Responsable recrutemment;Espagne;Madrid;12000;['calcul', 'rigueur', 'organisation', 'confidentialité'];CDI;5 ans
+98;1/9/19 4:46 AM;02/23/2019 07:07 AM;6 mois;Informatique;autres_informatique;Espagne;Madrid;2500;['organisation', 'confidentialité'];null;Debutant
+99;01/13/2019 05:19 PM;01/26/2019 09:35 PM;5 ans;RH;Responsable recrutemment;France;Paris;5000;['organisation', 'esprit d’équipe', 'rigueur', 'confidentialité'];CDD;4 ans
+100;01/25/2019 04:34 AM;02/20/2019 02:22 AM;3 ans;Marketing;Community manager;Algeria;Alger;4500;['organisation', 'confidentialité', 'rigueur', 'esprit d’équipe'];CDI;1 an
+101;1/3/19 8:03 PM;01/13/2019 02:22 AM;18 mois;RH;Consultant RH;Morocco;Rabat;7000;['rigueur', 'initiative', 'esprit d’équipe'];CUI;5 ans
+102;01/28/2019 12:39 AM;01/28/2019 06:40 AM;1 an;Tourisme;Hôtesse;Algeria;Alger;14000;['confidentialité'];CUI;1 an
+103;1/11/19 12:35 PM;01/19/2019 08:28 PM;3 ans;RH;Consultant RH;Morocco;Agadir;9000;['esprit d’équipe', 'initiative'];CA;2 ans
+104;1/9/19 4:38 PM;01/29/2019 08:33 AM;2 ans;Marketing;Community manager;Algeria;Annaba;13000;['rigueur'];CTT;4 ans
+105;1/6/19 1:31 PM;02/18/2019 08:15 AM;1 an;Tourisme;Hôtesse;France;Marseille;10000;['calcul', 'confidentialité'];CUI;4 ans
+106;01/18/2019 11:14 PM;02/16/2019 06:06 PM;18 mois;Informatique;Technicien;Algeria;Alger;10000;['organisation'];CDI;3 ans
+107;1/4/19 8:35 PM;01/19/2019 06:44 PM;6 mois;Informatique;Développeur;Algeria;Annaba;1500;['confidentialité'];null;Debutant
+108;1/9/19 7:20 PM;1/11/19 8:12 PM;5 ans;RH;autres_RH;Algeria;Annaba;10000;['organisation', 'esprit d’équipe', 'confidentialité'];CUI;2 ans
+109;01/25/2019 04:27 PM;02/13/2019 08:44 PM;6 mois;Tourisme;Restauration;France;Lyon;1000;['rigueur', 'confidentialité', 'organisation', 'esprit d’équipe'];null;Debutant
+110;1/10/19 5:05 AM;01/23/2019 09:21 PM;1 an;RH;Responsable recrutemment;Algeria;Annaba;9000;['confidentialité', 'rigueur'];CDD;4 ans
+111;1/8/19 12:12 AM;02/22/2019 12:03 PM;6 mois;Commercial/vente;autres_commercial;France;Marseille;2000;['esprit d’équipe', 'confidentialité'];null;Debutant
+112;01/23/2019 07:50 PM;2/2/19 6:20 AM;2 ans;Production/maintenance;Comptable;Algeria;Annaba;4000;['office', 'comptabilité', 'calcul', 'rigueur', 'organisation', 'confidentialité'];CTT;2 ans
+113;01/28/2019 07:19 PM;02/28/2019 12:43 PM;6 mois;Production/maintenance;autres_production;Algeria;Annaba;1000;['confidentialité', 'esprit d’équipe', 'organisation', 'rigueur'];null;Debutant
+114;01/14/2019 05:23 PM;2/1/19 8:09 AM;18 mois;RH;Consultant RH;Morocco;Meknes;11000;['esprit d’équipe', 'organisation'];CA;5 ans
+115;01/17/2019 01:46 AM;01/29/2019 10:39 AM;5 ans;Commercial/vente;autres_commercial;France;Lyon;14000;['confidentialité', 'comptabilité', 'calcul', 'organisation', 'office'];CDD;5 ans
+116;01/23/2019 09:56 AM;02/26/2019 11:16 PM;6 mois;Commercial/vente;autres_commercial;Espagne;Barcelone;3000;['php', 'R', 'organisation'];null;Debutant
+117;01/27/2019 02:25 PM;2/9/19 12:42 PM;6 mois;Commercial/vente;Responsable commercial;France;Marseille;1000;['confidentialité', 'organisation', 'rigueur'];null;Debutant
+118;01/13/2019 10:31 AM;2/5/19 7:54 AM;2 ans;Production/maintenance;Comptable;Algeria;Annaba;6000;['python', 'SGBD', 'rigueur', 'organisation'];CP;5 ans
+119;01/21/2019 08:27 PM;02/13/2019 01:29 PM;5 ans;Production/maintenance;autres_production;Algeria;Annaba;15000;['esprit d’équipe', 'rigueur'];CDI;1 an
+120;01/30/2019 03:10 PM;02/18/2019 02:27 AM;2 ans;RH;autres_RH;France;Toulouse;4500;['organisation', 'rigueur', '.net', 'php', 'python', 'R', 'esprit d’équipe', 'SGBD'];CDD;2 ans
+121;01/30/2019 09:30 AM;02/25/2019 07:51 AM;1 an;RH;Consultant RH;Morocco;Rabat;7000;['confidentialité', 'organisation', 'esprit d’équipe', 'rigueur'];CTT;2 ans
+122;01/15/2019 09:49 PM;02/23/2019 04:14 AM;5 ans;Tourisme;Hôtesse;Espagne;Barcelone;5000;['rigueur', 'esprit d’équipe', 'organisation', 'confidentialité'];CUI;4 ans
+123;1/9/19 3:34 PM;01/13/2019 11:20 PM;6 mois;RH;Responsable recrutemment;Algeria;Alger;3000;['organisation'];null;Debutant
+124;01/25/2019 01:29 AM;02/24/2019 05:47 AM;1 an;RH;Consultant RH;Algeria;Alger;15000;['rigueur'];CUI;5 ans
+125;01/28/2019 01:40 PM;2/8/19 4:29 PM;6 mois;Commercial/vente;Télévendeur;Algeria;Annaba;1000;['organisation', 'confidentialité'];null;Debutant
+126;1/8/19 10:26 PM;2/9/19 7:13 PM;6 mois;Production/maintenance;Comptable;Algeria;Annaba;2500;['rigueur', '.net', 'SGBD'];null;Debutant
+127;01/19/2019 12:59 AM;2/5/19 12:11 PM;1 an;Commercial/vente;autres_commercial;Espagne;Madrid;13000;['esprit d’équipe'];CTT;2 ans
+128;01/21/2019 05:06 AM;2/11/19 11:11 PM;5 ans;Marketing;autres_marketing;Algeria;Annaba;4000;['esprit d’équipe', 'rigueur', 'confidentialité'];CA;3 ans
+129;1/1/19 7:34 PM;2/4/19 6:30 PM;1 an;Commercial/vente;Responsable commercial;Espagne;Madrid;10000;['esprit d’équipe'];CDD;3 ans
+130;1/1/19 1:36 PM;01/18/2019 08:38 AM;18 mois;Commercial/vente;autres_commercial;Algeria;Alger;10000;['esprit d’équipe', 'rigueur', 'organisation', 'initiative', 'confidentialité'];CUI;1 an
+131;01/24/2019 01:48 PM;01/25/2019 04:17 AM;3 ans;Tourisme;autres_tourisme;France;Lyon;8000;['initiative', 'esprit d’équipe', 'organisation', 'good presentation', 'confidentialité', 'rigueur'];CDD;4 ans
+132;01/24/2019 08:51 AM;01/30/2019 06:32 AM;1 an;Marketing;autres_marketing;France;Toulouse;6000;['esprit d’équipe', 'rigueur', 'confidentialité'];CUI;3 ans
+133;01/21/2019 07:49 AM;02/18/2019 05:32 PM;3 ans;Commercial/vente;autres_commercial;Algeria;Alger;12000;['initiative', 'confidentialité'];CDD;5 ans
+134;1/8/19 11:49 AM;01/18/2019 09:43 PM;6 mois;RH;Responsable recrutemment;Morocco;Agadir;1000;['rigueur', 'esprit d’équipe'];null;Debutant
+135;1/7/19 12:29 AM;02/18/2019 10:16 AM;1 an;Tourisme;autres_tourisme;France;Toulouse;13000;['confidentialité'];CUI;1 an
+136;01/18/2019 01:52 PM;01/26/2019 08:25 AM;1 an;Marketing;Community manager;Algeria;Annaba;10000;['calcul', 'confidentialité', 'office', 'organisation', 'esprit d’équipe'];CDD;3 ans
+137;1/9/19 7:34 PM;1/12/19 3:56 PM;2 ans;Tourisme;Hôtesse;France;Marseille;6000;['rigueur'];CDI;5 ans
+138;1/6/19 8:28 AM;02/19/2019 12:15 PM;2 ans;Informatique;Développeur;Algeria;Alger;5000;['SGBD'];CA;1 an
+139;01/29/2019 01:20 PM;02/16/2019 12:21 PM;6 mois;Tourisme;Restauration;France;Lyon;3000;['organisation', 'esprit d’équipe', 'confidentialité'];null;Debutant
+140;1/9/19 12:35 AM;02/20/2019 12:13 AM;5 ans;Informatique;Ingénieur;Morocco;Casablanca;8000;['esprit d’équipe', 'rigueur', 'organisation', 'confidentialité'];CDD;5 ans
+141;01/16/2019 06:27 AM;2/11/19 5:57 AM;1 an;Informatique;Développeur;Morocco;Casablanca;10000;['organisation', 'confidentialité'];CUI;3 ans
+142;1/5/19 7:32 AM;02/15/2019 01:15 AM;2 ans;Marketing;Responsable marketing;Espagne;Madrid;12000;['organisation', 'confidentialité', 'esprit d’équipe', 'rigueur'];CP;2 ans
+143;01/19/2019 06:13 AM;01/21/2019 12:28 AM;1 an;Informatique;Ingénieur;France;Marseille;9000;['rigueur', 'esprit d’équipe', 'initiative'];CDI;1 an
+144;2/1/19 4:24 AM;2/4/19 7:03 PM;6 mois;Marketing;Responsable marketing;Morocco;Casablanca;2500;['organisation'];null;Debutant
+145;2/1/19 4:12 AM;2/10/19 2:27 PM;6 mois;Commercial/vente;Télévendeur;Morocco;Marakech;1000;['organisation', 'esprit d’équipe'];null;Debutant
+146;1/3/19 7:51 AM;01/17/2019 06:17 PM;6 mois;Production/maintenance;Technicien;France;Paris;1000;['rigueur', 'confidentialité'];null;Debutant
+147;1/10/19 6:42 PM;02/16/2019 01:02 PM;5 ans;Marketing;Community manager;France;Paris;8000;['initiative', 'confidentialité', 'good presentation', 'rigueur'];CUI;5 ans
+148;01/23/2019 02:21 PM;3/1/19 4:19 AM;2 ans;RH;Consultant RH;Algeria;Annaba;8000;['confidentialité', 'esprit d’équipe', 'organisation', 'rigueur'];CDI;4 ans
+149;1/10/19 9:05 AM;02/27/2019 06:37 AM;5 ans;Commercial/vente;Télévendeur;Algeria;Alger;4000;['java', 'php', 'confidentialité', 'python', 'organisation', 'R', '.net'];CUI;4 ans
+150;1/10/19 10:41 PM;02/15/2019 06:23 AM;3 ans;Production/maintenance;Comptable;France;Lyon;4000;['esprit d’équipe', 'rigueur', 'organisation', 'confidentialité'];CA;3 ans
+151;1/10/19 5:20 AM;2/9/19 7:42 AM;1 an;Tourisme;Hôtesse;Algeria;Alger;11000;['organisation', 'rigueur', 'esprit d’équipe'];CP;2 ans
+152;01/18/2019 02:31 PM;2/5/19 8:26 PM;1 an;Production/maintenance;Technicien;France;Toulouse;13000;['R', 'rigueur', 'SGBD', 'confidentialité', 'java'];CP;1 an
+153;1/3/19 7:05 AM;01/22/2019 07:52 PM;5 ans;Commercial/vente;Responsable commercial;France;Marseille;8000;['good presentation'];CDD;2 ans
+154;01/29/2019 03:13 AM;02/25/2019 10:25 AM;5 ans;Commercial/vente;Télévendeur;Algeria;Alger;7000;['rigueur', 'esprit d’équipe', 'organisation', 'confidentialité'];CTT;4 ans
+155;01/29/2019 05:19 AM;02/26/2019 03:08 PM;6 mois;Tourisme;Restauration;Morocco;Meknes;2500;['confidentialité', 'rigueur', 'initiative', 'organisation'];null;Debutant
+156;1/2/19 10:06 PM;02/17/2019 11:58 PM;18 mois;Commercial/vente;Responsable commercial;Morocco;Tanger;5000;['rigueur'];CDI;3 ans
+157;1/7/19 1:25 AM;1/9/19 11:00 PM;5 ans;Informatique;Technicien;France;Marseille;7000;['confidentialité', 'organisation'];CUI;3 ans
+158;01/22/2019 07:55 PM;2/5/19 9:45 PM;6 mois;Informatique;Technicien;France;Lyon;1500;['rigueur', 'organisation', 'confidentialité', 'esprit d’équipe'];null;Debutant
+159;1/5/19 1:39 PM;1/8/19 10:40 AM;1 an;Tourisme;autres_tourisme;Espagne;Madrid;8000;['calcul', 'rigueur', 'confidentialité'];CTT;4 ans
+160;01/18/2019 11:20 AM;02/25/2019 09:20 AM;2 ans;Production/maintenance;autres_production;Morocco;Rabat;6000;['organisation', 'confidentialité', 'esprit d’équipe', 'rigueur'];CP;3 ans
+161;1/2/19 12:08 AM;1/11/19 11:11 PM;18 mois;RH;Consultant RH;Algeria;Annaba;5000;['organisation', 'rigueur'];CDI;1 an
+162;01/21/2019 09:02 PM;2/10/19 5:53 PM;6 mois;Tourisme;Hôtesse;Espagne;Barcelone;1500;['organisation', 'confidentialité', 'calcul', 'esprit d’équipe'];null;Debutant
+163;01/31/2019 06:24 AM;2/3/19 10:13 AM;18 mois;Production/maintenance;autres_production;Morocco;Rabat;12000;['rigueur', 'esprit d’équipe', 'organisation'];CTT;3 ans
+164;1/4/19 4:34 PM;01/23/2019 06:08 PM;18 mois;Informatique;Technicien;Algeria;Alger;12000;['esprit d’équipe', 'organisation', 'confidentialité'];CA;1 an
+165;1/11/19 2:24 AM;01/28/2019 04:58 PM;5 ans;Marketing;Responsable marketing;Morocco;Meknes;14000;['organisation'];CTT;4 ans
+166;01/13/2019 05:53 AM;02/15/2019 06:27 AM;18 mois;Production/maintenance;autres_production;Morocco;Agadir;10000;['rigueur', 'confidentialité', 'esprit d’équipe', 'organisation'];CP;1 an
+167;2/1/19 2:41 AM;02/28/2019 08:39 PM;18 mois;Commercial/vente;autres_commercial;Algeria;Annaba;12000;['organisation', 'esprit d’équipe', 'confidentialité'];CUI;4 ans
+168;1/3/19 5:53 PM;01/21/2019 08:38 AM;6 mois;Production/maintenance;autres_production;Algeria;Alger;1000;['comptabilité', 'organisation', 'office', 'esprit d’équipe', 'confidentialité'];null;Debutant
+169;01/19/2019 07:37 AM;01/20/2019 05:28 PM;3 ans;Tourisme;autres_tourisme;Morocco;Tanger;10000;['comptabilité', 'organisation', 'esprit d’équipe', 'calcul', 'office'];CP;1 an
+170;01/15/2019 06:14 PM;2/2/19 2:33 PM;2 ans;RH;autres_RH;France;Toulouse;8000;['rigueur'];CDI;1 an
+171;1/4/19 7:17 PM;2/11/19 3:33 AM;1 an;Commercial/vente;Télévendeur;Morocco;Meknes;8000;['esprit d’équipe', 'confidentialité'];CP;2 ans
+172;1/6/19 4:54 PM;02/23/2019 07:57 AM;5 ans;Commercial/vente;autres_commercial;Espagne;Madrid;4000;['organisation', 'good presentation', 'confidentialité', 'initiative'];CUI;1 an
+173;01/21/2019 09:56 AM;01/22/2019 03:59 AM;3 ans;Commercial/vente;Télévendeur;Espagne;Madrid;4500;['organisation', 'esprit d’équipe', 'confidentialité', 'rigueur'];CUI;1 an
+174;01/17/2019 01:59 PM;01/24/2019 04:25 AM;18 mois;Commercial/vente;Télévendeur;Algeria;Annaba;8000;['organisation', 'confidentialité'];CP;3 ans
+175;01/14/2019 08:19 AM;02/18/2019 11:59 AM;6 mois;Marketing;Responsable marketing;Algeria;Alger;3000;['confidentialité'];null;Debutant
+176;01/26/2019 10:57 AM;2/9/19 4:25 AM;6 mois;Tourisme;autres_tourisme;Morocco;Tanger;2500;['organisation', 'rigueur', 'esprit d’équipe'];null;Debutant
+177;01/17/2019 03:49 AM;2/10/19 8:43 PM;1 an;RH;Consultant RH;Espagne;Madrid;15000;['calcul', 'esprit d’équipe'];CDD;1 an
+178;01/21/2019 03:52 AM;2/7/19 7:58 AM;6 mois;Production/maintenance;autres_production;Algeria;Alger;2500;['confidentialité'];null;Debutant
+179;1/7/19 11:38 PM;01/28/2019 12:28 AM;6 mois;Production/maintenance;Technicien;Morocco;Rabat;1500;['organisation', 'esprit d’équipe'];null;Debutant
+180;01/24/2019 12:51 AM;01/30/2019 06:04 PM;2 ans;Commercial/vente;Télévendeur;France;Marseille;5000;['rigueur'];CA;5 ans
+181;1/9/19 3:17 PM;1/11/19 3:47 AM;6 mois;RH;Responsable recrutemment;Espagne;Madrid;2000;['esprit d’équipe', 'organisation'];null;Debutant
+182;01/23/2019 09:54 AM;02/13/2019 02:27 AM;6 mois;Tourisme;Hôtesse;France;Marseille;3000;['organisation'];null;Debutant
+183;01/21/2019 04:59 AM;2/2/19 1:36 AM;3 ans;RH;autres_RH;France;Lyon;8000;['good presentation', 'confidentialité', 'rigueur', 'esprit d’équipe', 'organisation', 'initiative'];CTT;5 ans
+184;01/31/2019 07:33 PM;2/10/19 5:37 PM;5 ans;Marketing;Responsable marketing;France;Toulouse;4000;['organisation', 'rigueur'];CA;2 ans
+185;01/26/2019 01:35 AM;01/29/2019 08:55 PM;18 mois;RH;autres_RH;France;Toulouse;10000;['rigueur', 'organisation', 'confidentialité'];CDD;4 ans
+186;01/19/2019 01:15 AM;2/6/19 2:49 AM;1 an;Marketing;Community manager;Morocco;Tanger;10000;['esprit d’équipe', 'confidentialité', 'rigueur'];CA;5 ans
+187;01/28/2019 05:56 AM;2/4/19 7:11 PM;1 an;Tourisme;autres_tourisme;Morocco;Tanger;14000;['organisation'];CTT;4 ans
+188;01/23/2019 05:05 PM;02/23/2019 11:47 PM;2 ans;Tourisme;autres_tourisme;Espagne;Barcelone;8000;['esprit d’équipe'];CDD;5 ans
+189;01/22/2019 04:08 AM;02/14/2019 02:01 PM;5 ans;Marketing;Community manager;Algeria;Alger;4000;['esprit d’équipe'];CDI;2 ans
+190;1/4/19 9:03 PM;02/20/2019 10:23 AM;1 an;Commercial/vente;autres_commercial;Algeria;Annaba;5000;['confidentialité', 'initiative', 'rigueur', 'esprit d’équipe', 'organisation', 'good presentation'];CDD;1 an
+191;01/18/2019 01:10 AM;01/28/2019 05:19 PM;5 ans;Commercial/vente;Responsable commercial;Algeria;Alger;12000;['rigueur', 'organisation', 'confidentialité'];CDD;5 ans
+192;1/2/19 1:38 AM;2/7/19 9:42 PM;5 ans;Production/maintenance;Comptable;Morocco;Marakech;4500;['rigueur'];CP;1 an
+193;01/19/2019 07:55 AM;2/4/19 11:37 AM;6 mois;Production/maintenance;Comptable;Morocco;Tanger;3000;['esprit d’équipe', 'confidentialité'];null;Debutant
+194;1/7/19 2:49 PM;01/18/2019 08:25 PM;2 ans;RH;Responsable recrutemment;Morocco;Meknes;7000;['esprit d’équipe'];CP;2 ans
+195;01/15/2019 01:06 AM;02/21/2019 04:37 PM;5 ans;Production/maintenance;Technicien;Algeria;Alger;4000;['R', 'php', 'rigueur', 'organisation', 'java', 'esprit d’équipe', '.net'];CP;2 ans
+196;01/14/2019 02:52 AM;01/19/2019 05:48 PM;1 an;Marketing;Responsable marketing;Espagne;Barcelone;6000;['organisation', 'confidentialité', 'esprit d’équipe', 'rigueur'];CDD;4 ans
+197;1/10/19 1:03 AM;02/18/2019 05:40 AM;1 an;Informatique;Ingénieur;Algeria;Annaba;10000;['esprit d’équipe', 'organisation', 'confidentialité', 'rigueur'];CTT;5 ans
+198;1/12/19 1:20 PM;01/25/2019 08:15 AM;18 mois;Informatique;Technicien;Espagne;Barcelone;12000;['esprit d’équipe', 'R', 'php', '.net', 'python', 'rigueur', 'java', 'confidentialité', 'organisation'];CP;4 ans
+199;1/6/19 2:54 AM;2/10/19 7:43 AM;18 mois;Marketing;autres_marketing;Espagne;Madrid;12000;['rigueur', 'confidentialité', 'organisation'];CDD;4 ans
+200;01/31/2019 10:58 PM;02/20/2019 03:25 PM;3 ans;RH;Responsable recrutemment;Espagne;Barcelone;4000;['organisation', 'confidentialité', 'rigueur'];CP;1 an
+201;1/6/19 2:45 PM;02/24/2019 06:29 AM;2 ans;Marketing;autres_marketing;France;Marseille;7000;['java', '.net', 'organisation', 'rigueur', 'python', 'esprit d’équipe', 'SGBD', 'confidentialité', 'php'];CTT;4 ans
+202;01/19/2019 06:50 PM;01/21/2019 09:54 AM;1 an;Tourisme;Restauration;France;Paris;5000;['organisation', 'rigueur', 'esprit d’équipe', 'confidentialité'];CDD;4 ans
+203;1/10/19 10:06 PM;01/16/2019 01:42 PM;6 mois;Marketing;Community manager;France;Marseille;3000;['organisation', 'rigueur'];null;Debutant
+204;1/10/19 4:26 PM;2/9/19 2:29 AM;2 ans;Marketing;Community manager;Espagne;Madrid;6000;['esprit d’équipe', 'organisation', 'rigueur', 'confidentialité'];CDI;5 ans
+205;01/20/2019 04:48 PM;02/20/2019 11:21 AM;3 ans;Commercial/vente;Télévendeur;Morocco;Meknes;5000;['confidentialité', 'rigueur'];CDI;2 ans
+206;1/9/19 11:49 AM;2/3/19 2:50 AM;6 mois;Marketing;Responsable marketing;Espagne;Barcelone;1500;['organisation', 'confidentialité'];null;Debutant
+207;01/15/2019 04:19 AM;02/19/2019 06:45 AM;6 mois;Marketing;Community manager;France;Paris;1000;['office', 'organisation', 'confidentialité', 'rigueur', 'calcul'];null;Debutant
+208;1/7/19 6:31 AM;01/29/2019 10:04 PM;6 mois;Informatique;Technicien;Algeria;Annaba;2500;['confidentialité'];null;Debutant
+209;01/18/2019 05:46 PM;2/9/19 12:05 AM;3 ans;Tourisme;Restauration;Espagne;Madrid;6000;['esprit d’équipe', 'rigueur', 'organisation', 'confidentialité'];CDI;2 ans
+210;01/30/2019 06:46 AM;02/19/2019 08:59 PM;2 ans;Informatique;Technicien;Algeria;Alger;5000;['esprit d’équipe', 'organisation', 'rigueur', 'confidentialité'];CA;3 ans
+211;1/7/19 9:21 PM;2/9/19 1:20 PM;3 ans;Marketing;autres_marketing;Espagne;Madrid;4500;['calcul', 'comptabilité', 'office', 'organisation'];CDD;2 ans
+212;01/29/2019 06:54 PM;2/12/19 3:31 AM;1 an;Informatique;Ingénieur;Morocco;Rabat;4500;['confidentialité'];CDI;4 ans
+213;1/7/19 9:15 AM;02/22/2019 07:16 AM;6 mois;Production/maintenance;Comptable;Morocco;Meknes;1500;['good presentation', 'initiative', 'esprit d’équipe'];null;Debutant
+214;1/4/19 1:24 AM;01/16/2019 01:56 PM;18 mois;Production/maintenance;autres_production;Espagne;Madrid;8000;['confidentialité', 'organisation', 'esprit d’équipe', 'rigueur'];CDI;2 ans
+215;01/18/2019 06:56 PM;01/23/2019 02:58 AM;3 ans;RH;Consultant RH;Morocco;Rabat;10000;['confidentialité', 'rigueur', 'organisation'];CTT;4 ans
+216;01/13/2019 08:11 PM;01/22/2019 10:15 PM;2 ans;Commercial/vente;Responsable commercial;Algeria;Alger;9000;['office', 'confidentialité', 'rigueur', 'comptabilité', 'esprit d’équipe', 'calcul', 'organisation'];CTT;3 ans
+217;1/9/19 2:04 AM;2/3/19 9:14 PM;18 mois;Marketing;autres_marketing;France;Marseille;6000;['confidentialité'];CA;1 an
+218;1/12/19 9:37 PM;02/25/2019 06:01 AM;1 an;Informatique;autres_informatique;France;Toulouse;8000;['organisation', 'rigueur'];CP;1 an
+219;1/8/19 8:00 AM;2/5/19 11:11 PM;3 ans;Tourisme;autres_tourisme;Algeria;Alger;10000;['esprit d’équipe'];CUI;1 an
+220;01/29/2019 11:40 PM;02/24/2019 10:58 AM;2 ans;Marketing;autres_marketing;Espagne;Madrid;6000;['confidentialité', 'esprit d’équipe'];CTT;1 an
+221;1/7/19 10:29 PM;2/12/19 7:01 PM;5 ans;Tourisme;Restauration;France;Marseille;14000;['organisation', 'confidentialité', 'esprit d’équipe', 'rigueur'];CDD;1 an
+222;01/30/2019 05:36 PM;2/8/19 10:41 AM;6 mois;Informatique;Développeur;Espagne;Madrid;2000;['esprit d’équipe'];null;Debutant
+223;01/25/2019 12:50 PM;01/31/2019 02:57 AM;3 ans;Commercial/vente;Télévendeur;France;Paris;5000;['organisation', 'confidentialité', 'rigueur', 'esprit d’équipe'];CP;1 an
+224;01/25/2019 08:05 AM;02/24/2019 03:07 AM;5 ans;Production/maintenance;autres_production;Algeria;Alger;7000;['R', 'organisation', 'java', 'python', 'php', 'confidentialité', '.net', 'esprit d’équipe'];CTT;5 ans
+225;1/11/19 4:13 AM;2/12/19 4:18 PM;2 ans;Production/maintenance;Comptable;Morocco;Tanger;5000;['rigueur', 'organisation'];CP;4 ans
+226;01/31/2019 01:14 PM;02/27/2019 07:57 PM;6 mois;Informatique;Ingénieur;France;Paris;3000;['SGBD', 'esprit d’équipe', 'rigueur'];null;Debutant
+227;01/24/2019 11:25 AM;2/10/19 5:33 AM;6 mois;Informatique;Développeur;Algeria;Annaba;2000;['rigueur', 'organisation', 'confidentialité'];null;Debutant
+228;01/21/2019 01:11 PM;02/16/2019 10:24 PM;5 ans;Informatique;Développeur;Espagne;Madrid;8000;['confidentialité'];CDD;2 ans
+229;1/2/19 4:06 AM;2/7/19 6:53 PM;2 ans;Marketing;autres_marketing;Espagne;Barcelone;14000;['esprit d’équipe', 'confidentialité', 'calcul', 'office', 'rigueur', 'organisation', 'comptabilité'];CDD;2 ans
+230;01/26/2019 01:39 PM;02/28/2019 03:27 PM;6 mois;RH;autres_RH;Morocco;Meknes;1000;['confidentialité'];null;Debutant
+231;1/11/19 9:21 AM;02/25/2019 10:06 PM;1 an;Commercial/vente;autres_commercial;Algeria;Alger;7000;['confidentialité', 'esprit d’équipe', 'organisation'];CTT;5 ans
+232;01/22/2019 04:38 AM;2/11/19 2:31 PM;5 ans;Marketing;autres_marketing;Morocco;Agadir;8000;['organisation', 'esprit d’équipe', 'good presentation', 'initiative'];CDI;1 an
+233;01/24/2019 11:42 AM;02/20/2019 07:03 PM;18 mois;RH;Responsable recrutemment;France;Lyon;13000;['esprit d’équipe', 'confidentialité', 'organisation', 'rigueur'];CDI;5 ans
+234;01/16/2019 07:27 AM;01/22/2019 11:06 AM;1 an;Production/maintenance;Technicien;France;Paris;13000;['calcul', 'esprit d’équipe', 'comptabilité', 'confidentialité', 'rigueur', 'organisation'];CP;3 ans
+235;1/4/19 10:42 PM;02/18/2019 05:12 PM;6 mois;Production/maintenance;autres_production;France;Paris;1500;['confidentialité', 'organisation', 'rigueur', 'esprit d’équipe'];null;Debutant
+236;01/19/2019 10:08 AM;01/28/2019 12:52 PM;1 an;Production/maintenance;Technicien;Espagne;Barcelone;13000;['SGBD', 'organisation', 'esprit d’équipe', 'R', 'php', 'rigueur', 'java'];CDI;3 ans
+237;01/17/2019 03:58 AM;01/25/2019 08:36 AM;2 ans;Tourisme;Restauration;Morocco;Tanger;6000;['organisation', 'esprit d’équipe', 'confidentialité', 'rigueur'];CP;3 ans
+238;1/3/19 4:43 AM;2/8/19 6:55 PM;6 mois;Commercial/vente;autres_commercial;France;Paris;2000;['organisation', 'esprit d’équipe', 'confidentialité'];null;Debutant
+239;01/30/2019 02:17 AM;2/12/19 9:55 AM;6 mois;RH;Responsable recrutemment;Morocco;Meknes;2500;['esprit d’équipe', 'organisation', 'rigueur'];null;Debutant
+240;01/17/2019 04:56 AM;2/1/19 7:27 PM;6 mois;Commercial/vente;Télévendeur;Algeria;Annaba;2500;['organisation', 'esprit d’équipe', 'office'];null;Debutant
+241;1/10/19 3:44 PM;01/14/2019 10:26 AM;5 ans;Commercial/vente;autres_commercial;Morocco;Casablanca;4500;['rigueur', 'confidentialité', 'organisation'];CDD;2 ans
+242;01/26/2019 11:11 AM;2/9/19 11:26 PM;5 ans;Informatique;Ingénieur;Algeria;Annaba;11000;['rigueur', 'confidentialité'];CDD;5 ans
+243;01/20/2019 05:56 AM;2/7/19 7:20 AM;6 mois;Informatique;autres_informatique;Algeria;Alger;2000;['office', 'confidentialité', 'calcul', 'comptabilité', 'organisation', 'rigueur'];null;Debutant
+244;01/21/2019 03:21 AM;02/22/2019 01:01 AM;2 ans;Marketing;Responsable marketing;Morocco;Tanger;7000;['rigueur', 'confidentialité'];CP;4 ans
+245;1/7/19 12:26 PM;2/4/19 5:54 PM;2 ans;RH;Consultant RH;Morocco;Tanger;11000;['esprit d’équipe', 'confidentialité', 'rigueur', 'organisation'];CDI;2 ans
+246;01/30/2019 05:29 PM;02/26/2019 08:27 AM;5 ans;Informatique;autres_informatique;France;Lyon;13000;['esprit d’équipe', 'organisation', 'rigueur', 'confidentialité'];CA;5 ans
+247;1/11/19 11:01 PM;2/3/19 6:43 PM;6 mois;RH;autres_RH;Algeria;Alger;1500;['confidentialité', 'esprit d’équipe', 'rigueur', 'organisation'];null;Debutant
+248;1/2/19 11:34 PM;2/6/19 6:45 PM;6 mois;Marketing;Community manager;France;Lyon;2000;['organisation', 'esprit d’équipe'];null;Debutant
+249;01/15/2019 04:03 PM;01/28/2019 04:24 AM;6 mois;RH;Responsable recrutemment;Espagne;Madrid;1000;['rigueur', 'organisation'];null;Debutant
+250;01/19/2019 02:41 PM;02/13/2019 01:48 AM;6 mois;Commercial/vente;Responsable commercial;France;Marseille;2500;['confidentialité'];null;Debutant
+251;1/1/19 1:53 PM;2/6/19 2:30 AM;5 ans;Marketing;Community manager;Espagne;Barcelone;7000;['organisation', 'esprit d’équipe', 'confidentialité', 'rigueur'];CDI;2 ans
+252;01/31/2019 12:01 PM;02/20/2019 02:40 AM;6 mois;Production/maintenance;Technicien;Espagne;Madrid;2000;['rigueur', 'esprit d’équipe'];null;Debutant
+253;01/27/2019 01:11 AM;01/31/2019 01:58 PM;6 mois;RH;Consultant RH;Morocco;Marakech;1500;['confidentialité', 'esprit d’équipe', 'organisation', 'initiative', 'good presentation', 'rigueur'];null;Debutant
+254;01/25/2019 04:03 PM;2/12/19 2:33 AM;1 an;Informatique;Ingénieur;France;Lyon;4000;['organisation'];CDI;5 ans
+255;01/28/2019 02:35 AM;2/6/19 5:29 PM;6 mois;Informatique;Développeur;France;Paris;3000;['confidentialité'];null;Debutant
+256;01/15/2019 09:57 PM;01/29/2019 11:45 AM;6 mois;Production/maintenance;autres_production;France;Toulouse;3000;['comptabilité', 'esprit d’équipe', 'rigueur', 'confidentialité'];null;Debutant
+257;01/26/2019 04:24 AM;02/18/2019 04:57 AM;2 ans;RH;Responsable recrutemment;Algeria;Alger;4000;['rigueur', 'confidentialité', 'esprit d’équipe', 'organisation'];CUI;3 ans
+258;1/4/19 6:52 AM;02/21/2019 08:04 PM;18 mois;Commercial/vente;Responsable commercial;Morocco;Meknes;7000;['confidentialité', 'esprit d’équipe', 'calcul', 'comptabilité'];CTT;4 ans
+259;1/4/19 7:19 AM;01/27/2019 06:41 PM;1 an;Marketing;Responsable marketing;Espagne;Barcelone;9000;['confidentialité', 'organisation', 'esprit d’équipe'];CDI;1 an
+260;1/4/19 6:22 PM;02/22/2019 04:22 PM;3 ans;Tourisme;Restauration;Algeria;Annaba;4000;['rigueur', 'confidentialité'];CDI;3 ans
+261;1/11/19 4:25 AM;02/27/2019 10:16 AM;6 mois;Marketing;Responsable marketing;Espagne;Barcelone;3000;['esprit d’équipe'];null;Debutant
+262;1/9/19 4:27 PM;01/22/2019 05:09 AM;2 ans;Informatique;Développeur;Espagne;Barcelone;11000;['organisation', 'confidentialité', 'good presentation', 'esprit d’équipe'];CA;1 an
+263;01/31/2019 12:28 PM;02/17/2019 12:00 PM;3 ans;Tourisme;Hôtesse;Morocco;Tanger;12000;['rigueur'];CP;2 ans
+264;01/30/2019 04:17 PM;02/16/2019 07:39 PM;2 ans;Informatique;Technicien;Morocco;Rabat;14000;['rigueur', 'organisation', 'esprit d’équipe', 'confidentialité'];CTT;1 an
+265;01/21/2019 07:52 PM;02/19/2019 07:46 AM;2 ans;Production/maintenance;Comptable;France;Lyon;11000;['confidentialité', 'organisation'];CDI;3 ans
+266;1/3/19 3:04 AM;01/24/2019 01:05 PM;6 mois;Informatique;autres_informatique;Algeria;Annaba;1000;['organisation', 'esprit d’équipe', 'rigueur'];null;Debutant
+267;01/14/2019 08:33 AM;01/15/2019 08:56 PM;2 ans;RH;autres_RH;Morocco;Marakech;5000;['esprit d’équipe'];CDI;1 an
+268;1/4/19 2:33 AM;2/10/19 6:12 AM;1 an;Tourisme;autres_tourisme;France;Paris;9000;['organisation', 'initiative', 'esprit d’équipe', 'good presentation'];CDI;4 ans
+269;01/22/2019 07:43 PM;02/14/2019 04:45 AM;3 ans;Informatique;Ingénieur;Espagne;Madrid;6000;['rigueur', 'esprit d’équipe', 'confidentialité'];CDI;1 an
+270;1/12/19 1:42 PM;01/16/2019 09:26 AM;5 ans;Commercial/vente;autres_commercial;Espagne;Barcelone;7000;['rigueur', 'confidentialité', 'organisation', 'good presentation', 'initiative'];CDI;3 ans
+271;01/16/2019 08:59 PM;01/17/2019 02:59 PM;6 mois;Informatique;Ingénieur;Morocco;Agadir;2500;['rigueur'];null;Debutant
+272;01/13/2019 07:47 PM;02/24/2019 10:19 PM;1 an;Tourisme;autres_tourisme;Algeria;Annaba;15000;['organisation'];CUI;2 ans
+273;1/10/19 4:52 AM;1/12/19 6:49 AM;5 ans;Tourisme;autres_tourisme;Morocco;Agadir;6000;['esprit d’équipe'];CTT;5 ans
+274;01/28/2019 03:19 PM;02/21/2019 01:51 AM;18 mois;RH;Responsable recrutemment;Espagne;Madrid;4500;['calcul', 'confidentialité', 'organisation', 'esprit d’équipe', 'comptabilité'];CDD;1 an
+275;01/30/2019 11:48 PM;2/9/19 9:59 AM;2 ans;RH;autres_RH;Morocco;Marakech;15000;['comptabilité', 'calcul', 'esprit d’équipe', 'confidentialité'];CUI;4 ans
+276;01/28/2019 10:36 AM;02/21/2019 09:56 AM;2 ans;Production/maintenance;Technicien;Morocco;Casablanca;12000;['rigueur'];CDD;1 an
+277;01/13/2019 12:55 PM;02/22/2019 04:30 PM;2 ans;Production/maintenance;Comptable;Espagne;Madrid;6000;['rigueur', 'organisation', 'confidentialité', 'esprit d’équipe'];CP;5 ans
+278;01/25/2019 04:45 AM;01/27/2019 07:24 AM;18 mois;Production/maintenance;autres_production;France;Marseille;9000;['rigueur', 'organisation', 'confidentialité', 'calcul', 'office', 'esprit d’équipe'];CDI;5 ans
+279;01/19/2019 04:19 PM;2/1/19 12:24 AM;6 mois;Informatique;Technicien;Espagne;Madrid;2500;['organisation', 'confidentialité', 'esprit d’équipe'];null;Debutant
+280;01/25/2019 09:50 AM;01/31/2019 10:15 PM;6 mois;Informatique;autres_informatique;Algeria;Annaba;1000;['esprit d’équipe', 'confidentialité', 'rigueur', 'organisation'];null;Debutant
+281;1/6/19 4:21 AM;02/25/2019 12:05 PM;5 ans;Marketing;Responsable marketing;Espagne;Madrid;12000;['esprit d’équipe', 'confidentialité'];CDD;4 ans
+282;1/11/19 8:07 PM;2/1/19 5:16 PM;6 mois;Informatique;Développeur;Espagne;Madrid;1500;['python', 'R', '.net', 'confidentialité', 'java', 'SGBD', 'organisation'];null;Debutant
+283;1/3/19 7:06 AM;2/3/19 2:24 PM;1 an;RH;Responsable recrutemment;France;Paris;4500;['rigueur'];CP;5 ans
+284;01/18/2019 12:12 AM;2/12/19 12:31 PM;3 ans;Informatique;Technicien;Morocco;Meknes;4500;['.net'];CUI;4 ans
+285;01/29/2019 01:04 AM;2/1/19 1:37 PM;18 mois;RH;autres_RH;Espagne;Madrid;11000;['confidentialité', 'organisation'];CA;2 ans
+286;01/14/2019 11:00 PM;2/11/19 8:28 AM;6 mois;Informatique;autres_informatique;Morocco;Rabat;1000;['esprit d’équipe', 'organisation', 'confidentialité', 'rigueur'];null;Debutant
+287;1/9/19 5:55 PM;2/9/19 1:48 PM;18 mois;Informatique;Ingénieur;Morocco;Rabat;13000;['organisation', 'rigueur', 'confidentialité'];CP;3 ans
+288;1/2/19 3:48 PM;2/7/19 4:36 AM;3 ans;Informatique;autres_informatique;France;Toulouse;9000;['good presentation', 'initiative'];CDI;1 an
+289;01/20/2019 01:46 PM;02/18/2019 05:19 PM;5 ans;Commercial/vente;Télévendeur;Morocco;Tanger;10000;['esprit d’équipe'];CDD;2 ans
+290;1/2/19 3:23 PM;2/4/19 1:59 AM;6 mois;RH;Responsable recrutemment;Algeria;Annaba;3000;['rigueur', 'esprit d’équipe', 'organisation', 'confidentialité'];null;Debutant
+291;1/12/19 4:46 PM;2/8/19 12:46 AM;6 mois;Tourisme;Restauration;France;Paris;1000;['rigueur', 'esprit d’équipe'];null;Debutant
+292;1/11/19 9:12 AM;02/19/2019 01:35 AM;6 mois;Marketing;Responsable marketing;Algeria;Alger;2000;['esprit d’équipe', 'organisation', 'rigueur'];null;Debutant
+293;1/4/19 4:41 PM;01/21/2019 05:18 PM;6 mois;RH;Consultant RH;Algeria;Alger;1000;['esprit d’équipe'];null;Debutant
+294;01/18/2019 04:42 PM;02/27/2019 09:36 AM;6 mois;Marketing;autres_marketing;Morocco;Agadir;2000;['esprit d’équipe', 'confidentialité', 'rigueur'];null;Debutant
+295;1/4/19 7:07 PM;02/15/2019 07:24 AM;1 an;Informatique;autres_informatique;Espagne;Madrid;4500;['confidentialité', 'esprit d’équipe'];CA;3 ans
+296;01/25/2019 10:27 AM;02/27/2019 09:48 PM;18 mois;Tourisme;Hôtesse;Morocco;Rabat;4000;['php', 'R', 'confidentialité', 'esprit d’équipe', 'python', 'SGBD', '.net'];CUI;5 ans
+297;01/27/2019 08:56 AM;01/31/2019 02:48 PM;1 an;RH;autres_RH;Algeria;Alger;9000;['esprit d’équipe'];CDI;3 ans
+298;1/8/19 7:51 AM;02/21/2019 07:12 PM;5 ans;RH;Responsable recrutemment;Espagne;Barcelone;7000;['initiative', 'confidentialité', 'good presentation', 'rigueur'];CTT;4 ans
+299;1/9/19 3:53 PM;01/18/2019 07:00 AM;6 mois;Marketing;autres_marketing;Algeria;Annaba;2500;['rigueur', 'organisation', 'confidentialité'];null;Debutant
+300;1/12/19 9:17 AM;01/19/2019 04:24 PM;2 ans;Tourisme;autres_tourisme;France;Marseille;5000;['java', '.net', 'python', 'organisation', 'esprit d’équipe'];CTT;5 ans
+301;01/17/2019 08:46 AM;02/15/2019 08:36 PM;6 mois;Commercial/vente;Télévendeur;Morocco;Agadir;1000;['initiative'];null;Debutant
+302;1/8/19 11:15 PM;2/2/19 5:55 PM;6 mois;Informatique;autres_informatique;France;Paris;1000;['esprit d’équipe', 'rigueur'];null;Debutant
+303;1/3/19 3:31 PM;01/13/2019 08:48 AM;18 mois;Production/maintenance;autres_production;Algeria;Alger;5000;['.net', 'rigueur', 'java', 'R'];CP;2 ans
+304;01/31/2019 05:29 PM;2/12/19 4:48 PM;3 ans;Tourisme;Hôtesse;France;Paris;7000;['esprit d’équipe', 'rigueur', 'confidentialité'];CP;1 an
+305;01/28/2019 04:44 PM;2/10/19 2:41 PM;5 ans;Production/maintenance;autres_production;Espagne;Barcelone;10000;['comptabilité', 'confidentialité', 'office'];CDI;3 ans
+306;1/7/19 11:28 PM;02/21/2019 05:54 PM;2 ans;Production/maintenance;Comptable;Algeria;Annaba;14000;['rigueur', 'esprit d’équipe'];CA;2 ans
+307;01/26/2019 04:36 AM;02/13/2019 08:11 AM;2 ans;Production/maintenance;Technicien;France;Marseille;5000;['rigueur', 'office', 'confidentialité'];CA;4 ans
+308;01/30/2019 03:41 PM;2/12/19 8:19 AM;6 mois;Marketing;Responsable marketing;Algeria;Annaba;1500;['esprit d’équipe', 'rigueur'];null;Debutant
+309;01/23/2019 09:16 AM;2/3/19 4:49 AM;6 mois;Commercial/vente;autres_commercial;Morocco;Casablanca;2000;['confidentialité', 'esprit d’équipe', 'organisation'];null;Debutant
+310;1/7/19 9:01 PM;01/21/2019 06:02 PM;1 an;Informatique;Technicien;Morocco;Agadir;13000;['organisation', 'rigueur'];CA;5 ans
+311;01/26/2019 09:12 AM;02/25/2019 11:51 AM;18 mois;Tourisme;autres_tourisme;Morocco;Agadir;10000;['organisation'];CDI;1 an
+312;01/13/2019 12:18 PM;2/7/19 6:13 PM;18 mois;Marketing;Responsable marketing;Morocco;Agadir;14000;['SGBD', 'java', 'confidentialité', 'R', 'organisation', '.net', 'php', 'esprit d’équipe'];CA;1 an
+313;1/6/19 7:02 AM;01/27/2019 08:16 AM;3 ans;Production/maintenance;Comptable;France;Marseille;6000;['esprit d’équipe'];CTT;3 ans
+314;1/12/19 9:27 PM;02/26/2019 09:49 AM;6 mois;Tourisme;Restauration;Espagne;Barcelone;2500;['initiative', 'organisation', 'esprit d’équipe', 'good presentation'];null;Debutant
+315;1/2/19 4:30 AM;02/18/2019 10:58 AM;6 mois;Commercial/vente;Télévendeur;France;Marseille;1500;['confidentialité', 'rigueur'];null;Debutant
+316;01/30/2019 09:14 AM;3/1/19 2:45 AM;3 ans;Informatique;Développeur;Algeria;Alger;12000;['confidentialité', 'rigueur', 'esprit d’équipe', 'organisation'];CA;4 ans
+317;01/17/2019 03:40 PM;01/26/2019 01:59 PM;6 mois;Informatique;Technicien;Espagne;Barcelone;2000;['esprit d’équipe', 'confidentialité'];null;Debutant
+318;1/4/19 1:07 AM;1/12/19 9:50 PM;2 ans;Informatique;Développeur;Espagne;Barcelone;8000;['confidentialité', 'rigueur', 'initiative', 'organisation', 'esprit d’équipe', 'good presentation'];CP;1 an
+319;01/13/2019 11:10 PM;01/21/2019 02:31 AM;18 mois;RH;Consultant RH;Algeria;Annaba;4500;['confidentialité'];CDD;3 ans
+320;01/31/2019 07:55 PM;02/19/2019 05:38 PM;5 ans;Marketing;autres_marketing;Espagne;Barcelone;11000;['php', 'python'];CDD;2 ans
+321;1/8/19 3:31 PM;01/17/2019 08:20 AM;18 mois;Commercial/vente;Télévendeur;Morocco;Rabat;13000;['organisation', 'esprit d’équipe'];CTT;5 ans
+322;1/2/19 5:55 AM;02/15/2019 03:27 AM;3 ans;Production/maintenance;autres_production;Espagne;Barcelone;6000;['esprit d’équipe', 'confidentialité'];CP;4 ans
+323;01/14/2019 01:59 AM;01/24/2019 02:17 AM;3 ans;Marketing;autres_marketing;France;Paris;9000;['esprit d’équipe', 'calcul', 'office', 'organisation', 'rigueur'];CDD;5 ans
+324;01/23/2019 01:04 PM;01/29/2019 03:43 PM;18 mois;Commercial/vente;autres_commercial;France;Paris;5000;['esprit d’équipe', 'confidentialité', 'calcul', 'rigueur', 'office'];CUI;3 ans
+325;2/1/19 12:21 AM;2/7/19 4:56 PM;3 ans;RH;Consultant RH;Algeria;Alger;14000;['SGBD', 'php', 'python', 'confidentialité', 'esprit d’équipe', 'organisation', 'java', 'rigueur', '.net', 'R'];CDI;3 ans
+326;01/14/2019 03:27 AM;02/27/2019 08:37 AM;5 ans;Commercial/vente;Télévendeur;France;Marseille;10000;['esprit d’équipe', 'confidentialité'];CDD;2 ans
+327;1/2/19 7:28 AM;2/1/19 9:36 AM;6 mois;Commercial/vente;Télévendeur;Algeria;Annaba;1500;['esprit d’équipe', 'organisation', 'python'];null;Debutant
+328;01/22/2019 08:30 PM;02/16/2019 05:26 AM;3 ans;RH;autres_RH;France;Paris;10000;['confidentialité', 'esprit d’équipe', 'organisation', 'rigueur'];CDD;1 an
+329;01/30/2019 08:17 PM;02/18/2019 03:50 PM;5 ans;RH;Responsable recrutemment;Algeria;Alger;9000;['confidentialité'];CUI;1 an
+330;01/24/2019 11:36 AM;01/27/2019 10:15 AM;6 mois;Commercial/vente;autres_commercial;France;Paris;1500;['organisation'];null;Debutant
+331;01/27/2019 11:10 PM;2/9/19 2:58 AM;6 mois;RH;Responsable recrutemment;Morocco;Tanger;2500;['rigueur', 'organisation', 'confidentialité'];null;Debutant
+332;1/2/19 4:51 PM;2/4/19 7:01 PM;6 mois;Marketing;autres_marketing;Espagne;Madrid;1000;['esprit d’équipe', 'organisation', 'rigueur', 'confidentialité'];null;Debutant
+333;01/16/2019 08:09 AM;02/27/2019 02:50 AM;3 ans;Informatique;Technicien;France;Marseille;10000;['confidentialité', 'organisation'];CP;5 ans
+334;01/27/2019 09:35 PM;2/3/19 2:38 AM;6 mois;Informatique;Technicien;France;Marseille;2000;['organisation', 'rigueur'];null;Debutant
+335;01/25/2019 04:53 PM;01/27/2019 11:50 PM;18 mois;RH;autres_RH;France;Toulouse;4500;['esprit d’équipe', 'organisation', 'rigueur', 'confidentialité'];CDD;5 ans
+336;1/1/19 5:11 PM;2/9/19 12:15 PM;6 mois;Marketing;autres_marketing;Espagne;Barcelone;1500;['calcul', 'rigueur'];null;Debutant
+337;1/9/19 5:05 AM;2/8/19 2:52 PM;1 an;Marketing;autres_marketing;France;Marseille;10000;['rigueur'];CDI;2 ans
+338;1/3/19 6:21 PM;02/26/2019 05:52 AM;2 ans;Production/maintenance;Comptable;Morocco;Tanger;4500;['calcul', 'esprit d’équipe'];CDD;5 ans
+339;01/23/2019 04:59 PM;02/18/2019 12:04 PM;6 mois;RH;Responsable recrutemment;France;Paris;2000;['organisation', 'confidentialité', 'esprit d’équipe'];null;Debutant
+340;01/24/2019 08:40 AM;2/8/19 4:35 AM;5 ans;Production/maintenance;Technicien;France;Lyon;6000;['calcul', 'comptabilité'];CTT;2 ans
+341;1/12/19 2:47 AM;01/18/2019 12:35 PM;6 mois;Production/maintenance;autres_production;Morocco;Casablanca;2000;['esprit d’équipe', 'organisation', 'confidentialité', 'rigueur'];null;Debutant
+342;01/18/2019 01:11 AM;2/1/19 9:16 PM;1 an;Commercial/vente;autres_commercial;Espagne;Barcelone;4500;['rigueur', 'organisation'];CDI;1 an
+343;1/12/19 2:49 AM;01/22/2019 04:48 AM;1 an;Tourisme;autres_tourisme;Espagne;Madrid;10000;['confidentialité', 'organisation'];CUI;3 ans
+344;01/21/2019 05:25 AM;02/28/2019 05:00 PM;6 mois;Commercial/vente;autres_commercial;France;Marseille;2500;['confidentialité', 'organisation', 'rigueur'];null;Debutant
+345;1/9/19 1:43 PM;01/15/2019 09:04 PM;3 ans;Commercial/vente;autres_commercial;Algeria;Annaba;13000;['confidentialité', 'organisation'];CDI;4 ans
+346;01/30/2019 11:38 AM;01/31/2019 05:17 AM;6 mois;RH;Responsable recrutemment;Espagne;Barcelone;2500;['organisation', 'rigueur', 'confidentialité'];null;Debutant
+347;1/6/19 7:08 PM;1/10/19 2:37 AM;6 mois;Informatique;autres_informatique;France;Lyon;1500;['rigueur', 'organisation', 'confidentialité'];null;Debutant
+348;01/30/2019 06:06 PM;2/6/19 1:48 PM;6 mois;Tourisme;Hôtesse;Algeria;Annaba;3000;['esprit d’équipe'];null;Debutant
+349;01/26/2019 05:42 AM;02/14/2019 09:58 AM;1 an;Informatique;Ingénieur;France;Marseille;6000;['R', 'python', 'php', 'SGBD', 'java', 'organisation', 'esprit d’équipe', 'confidentialité', 'rigueur', '.net'];CP;1 an
+350;01/19/2019 06:56 PM;01/21/2019 03:30 AM;6 mois;Production/maintenance;Technicien;Algeria;Annaba;2500;['organisation', 'esprit d’équipe', 'confidentialité'];null;Debutant
+351;01/29/2019 11:27 PM;02/22/2019 03:41 PM;18 mois;Informatique;autres_informatique;France;Paris;4500;['confidentialité', 'python', 'SGBD'];CDD;1 an
+352;1/5/19 10:42 PM;01/24/2019 02:57 AM;6 mois;RH;Responsable recrutemment;France;Paris;3000;['esprit d’équipe', 'organisation', 'confidentialité', 'rigueur'];null;Debutant
+353;01/18/2019 04:16 AM;02/15/2019 11:47 AM;2 ans;RH;Responsable recrutemment;France;Marseille;15000;['organisation', 'rigueur', 'confidentialité', 'esprit d’équipe'];CA;3 ans
+354;01/24/2019 05:08 AM;2/11/19 9:09 AM;3 ans;Marketing;Community manager;France;Paris;4000;['rigueur', 'esprit d’équipe', 'organisation', 'confidentialité'];CDD;3 ans
+355;01/25/2019 12:33 PM;02/15/2019 09:51 PM;1 an;RH;Consultant RH;Espagne;Barcelone;6000;['rigueur'];CTT;4 ans
+356;01/24/2019 12:26 PM;02/24/2019 01:53 AM;3 ans;RH;autres_RH;Espagne;Barcelone;13000;['rigueur', 'confidentialité'];CA;3 ans
+357;01/25/2019 03:19 PM;2/8/19 9:39 PM;2 ans;Informatique;autres_informatique;France;Marseille;14000;['rigueur', 'java', 'organisation', 'confidentialité', 'php', '.net'];CDD;3 ans
+358;01/16/2019 03:06 AM;02/27/2019 03:43 PM;1 an;Informatique;Ingénieur;France;Lyon;13000;['confidentialité'];CP;5 ans
+359;01/18/2019 06:43 PM;02/20/2019 05:32 PM;5 ans;Informatique;Technicien;Morocco;Marakech;8000;['organisation', 'rigueur'];CDD;5 ans
+360;01/17/2019 10:21 AM;02/16/2019 04:33 AM;6 mois;Tourisme;autres_tourisme;Algeria;Alger;3000;['organisation', 'confidentialité'];null;Debutant
+361;1/6/19 6:49 PM;01/30/2019 05:51 PM;3 ans;Tourisme;Restauration;Algeria;Alger;15000;['confidentialité'];CDD;2 ans
+362;01/18/2019 11:20 PM;01/21/2019 08:36 PM;1 an;Commercial/vente;Télévendeur;Espagne;Barcelone;14000;['confidentialité', 'esprit d’équipe'];CTT;4 ans
+363;01/14/2019 02:56 PM;02/20/2019 02:02 PM;6 mois;Production/maintenance;Technicien;Espagne;Barcelone;3000;['rigueur', 'esprit d’équipe', 'confidentialité'];null;Debutant
+364;01/27/2019 04:50 PM;2/2/19 8:07 PM;6 mois;Commercial/vente;Responsable commercial;France;Lyon;2000;['organisation', 'rigueur', 'office', 'comptabilité'];null;Debutant
+365;1/7/19 7:54 AM;01/26/2019 08:31 AM;2 ans;Marketing;Community manager;Espagne;Madrid;13000;['confidentialité', 'rigueur', 'organisation'];CP;1 an
+366;01/30/2019 03:22 PM;02/14/2019 02:59 PM;6 mois;Tourisme;Restauration;Espagne;Barcelone;2500;['confidentialité', 'rigueur', 'esprit d’équipe'];null;Debutant
+367;1/1/19 3:21 PM;02/19/2019 12:33 PM;18 mois;Commercial/vente;Télévendeur;Espagne;Madrid;8000;['confidentialité', 'SGBD', 'esprit d’équipe', 'java', 'rigueur', 'php', '.net', 'python'];CDI;4 ans
+368;01/19/2019 09:36 PM;01/20/2019 10:32 PM;5 ans;Tourisme;Restauration;Algeria;Annaba;13000;['confidentialité', 'rigueur'];CTT;2 ans
+369;01/24/2019 07:59 PM;02/23/2019 01:15 AM;18 mois;Informatique;Technicien;Algeria;Alger;7000;['SGBD', 'R', 'java', 'python', '.net', 'php', 'rigueur', 'confidentialité', 'esprit d’équipe'];CDI;2 ans
+370;1/6/19 7:39 AM;02/24/2019 10:47 AM;5 ans;Production/maintenance;Technicien;Algeria;Annaba;9000;['esprit d’équipe'];CTT;2 ans
+371;1/5/19 9:50 PM;01/28/2019 09:13 PM;3 ans;Commercial/vente;Responsable commercial;France;Lyon;8000;['esprit d’équipe', 'confidentialité', 'office', 'calcul', 'rigueur'];CP;4 ans
+372;01/31/2019 02:31 AM;3/1/19 3:15 AM;5 ans;Production/maintenance;Comptable;Espagne;Barcelone;12000;['confidentialité'];CUI;5 ans
+373;1/9/19 8:36 AM;2/11/19 5:10 AM;6 mois;Commercial/vente;Responsable commercial;Algeria;Alger;2500;['esprit d’équipe'];null;Debutant
+374;1/10/19 4:54 PM;2/5/19 12:06 AM;3 ans;Commercial/vente;Responsable commercial;Algeria;Annaba;9000;['rigueur', 'confidentialité', 'organisation'];CP;1 an
+375;1/3/19 7:29 AM;1/3/19 9:00 PM;2 ans;Commercial/vente;Responsable commercial;Algeria;Alger;4000;['initiative', 'confidentialité', 'rigueur', 'esprit d’équipe', 'good presentation'];CDI;5 ans
+376;01/15/2019 07:08 PM;02/18/2019 07:34 AM;6 mois;Informatique;Ingénieur;Espagne;Barcelone;3000;['esprit d’équipe', 'rigueur'];null;Debutant
+377;01/25/2019 02:00 PM;02/22/2019 03:35 AM;18 mois;Marketing;Community manager;Espagne;Madrid;13000;['confidentialité', 'python', 'php', 'R'];CP;5 ans
+378;01/22/2019 05:13 PM;02/28/2019 03:08 PM;6 mois;Commercial/vente;Télévendeur;Algeria;Annaba;3000;['organisation', 'confidentialité'];null;Debutant
+379;1/6/19 5:58 AM;02/20/2019 04:40 AM;6 mois;RH;Responsable recrutemment;Algeria;Alger;2000;['esprit d’équipe', 'confidentialité'];null;Debutant
+380;01/24/2019 12:21 AM;2/12/19 2:56 PM;6 mois;Production/maintenance;Technicien;Morocco;Tanger;3000;['esprit d’équipe'];null;Debutant
+381;1/6/19 2:27 AM;01/27/2019 06:30 PM;6 mois;Commercial/vente;autres_commercial;France;Marseille;1500;['python', 'java', 'confidentialité'];null;Debutant
+382;01/20/2019 01:23 PM;02/16/2019 02:06 AM;1 an;Production/maintenance;Technicien;France;Paris;5000;['confidentialité', 'esprit d’équipe'];CA;4 ans
+383;1/1/19 2:02 PM;02/27/2019 08:05 PM;18 mois;Production/maintenance;Comptable;Espagne;Barcelone;11000;['calcul', 'rigueur'];CDD;5 ans
+384;01/15/2019 06:04 AM;02/22/2019 06:55 PM;3 ans;Informatique;Technicien;Morocco;Casablanca;5000;['esprit d’équipe', 'confidentialité', 'rigueur'];CP;4 ans
+385;01/15/2019 08:31 AM;02/27/2019 07:19 PM;6 mois;RH;Consultant RH;Espagne;Madrid;1000;['R', 'python', '.net', 'php', 'java', 'esprit d’équipe', 'rigueur', 'SGBD', 'organisation'];null;Debutant
+386;1/9/19 7:57 AM;01/23/2019 08:45 AM;2 ans;Marketing;Responsable marketing;Espagne;Madrid;11000;['rigueur', 'confidentialité', 'organisation', 'esprit d’équipe'];CP;1 an
+387;01/14/2019 06:20 AM;01/30/2019 04:26 AM;6 mois;Commercial/vente;autres_commercial;Algeria;Alger;2000;['organisation'];null;Debutant
+388;01/20/2019 03:38 PM;2/12/19 11:09 PM;6 mois;Tourisme;Restauration;Morocco;Rabat;2500;['rigueur', 'confidentialité'];null;Debutant
+389;01/23/2019 03:04 AM;02/17/2019 11:30 PM;6 mois;RH;Responsable recrutemment;Espagne;Madrid;1000;['rigueur', 'organisation'];null;Debutant
+390;01/15/2019 07:37 PM;02/23/2019 09:33 AM;6 mois;Production/maintenance;Technicien;France;Toulouse;2000;['esprit d’équipe'];null;Debutant
+391;1/1/19 8:44 PM;01/23/2019 09:28 AM;5 ans;RH;Responsable recrutemment;France;Lyon;14000;['.net', 'R', 'SGBD', 'confidentialité', 'python', 'esprit d’équipe'];CTT;3 ans
+392;1/5/19 9:27 PM;02/14/2019 07:34 PM;5 ans;Production/maintenance;Comptable;Espagne;Madrid;4500;['confidentialité', 'esprit d’équipe'];CDI;3 ans
+393;1/11/19 8:03 AM;2/2/19 12:01 PM;2 ans;Tourisme;Restauration;Algeria;Alger;5000;['rigueur', 'organisation', 'esprit d’équipe'];CA;2 ans
+394;01/25/2019 08:36 PM;2/6/19 10:59 AM;2 ans;Tourisme;Restauration;Algeria;Alger;7000;['rigueur', 'organisation', 'esprit d’équipe', 'SGBD', 'java', '.net', 'R', 'python'];CA;4 ans
+395;01/19/2019 11:04 PM;2/8/19 4:06 AM;6 mois;RH;autres_RH;France;Marseille;1000;['rigueur', 'confidentialité', 'esprit d’équipe'];null;Debutant
+396;01/13/2019 08:54 PM;02/28/2019 02:23 AM;18 mois;Marketing;Responsable marketing;Morocco;Rabat;11000;['organisation'];CDI;5 ans
+397;01/16/2019 10:11 PM;01/27/2019 11:07 AM;5 ans;Production/maintenance;Comptable;Algeria;Alger;4000;['rigueur', 'good presentation', 'initiative', 'confidentialité', 'organisation', 'esprit d’équipe'];CA;2 ans
+398;01/31/2019 10:05 AM;2/2/19 11:51 AM;5 ans;Production/maintenance;autres_production;Espagne;Barcelone;14000;['confidentialité'];CTT;2 ans
+399;1/8/19 4:43 AM;01/28/2019 01:22 AM;2 ans;Commercial/vente;Responsable commercial;Algeria;Alger;5000;['esprit d’équipe', 'organisation'];CA;1 an

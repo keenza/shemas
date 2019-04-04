@@ -1,0 +1,65 @@
+AT_Research_Id;AT_User_Id_Research;AT_Date_research;AT_user_research;AT_Type_research1;AT_Type_research2;AT_Type_research3
+0;13;11/03/2019 01:23;candidate;category;contract;Informatique
+1;86;24/01/2019 10:48;candidate;category;contract;Tourisme
+2;30;31/01/2019 10:00;candidate;category;stage préembauche;Agadir
+3;8;02/01/2019 22:53;candidate;category;stage préembauche;Production/maintenance
+4;40;05/02/2019 17:30;candidate;category;stage PFE;Informatique
+5;47;20/03/2019 07:18;entreprise;category;candidat;Technicien
+6;28;19/01/2019 22:40;candidate;key_words;contract;Consultant RH
+7;38;15/03/2019 09:40;entreprise;category;candidat;Commercial/vente
+8;75;17/01/2019 22:29;entreprise;key_words;candidat;Technicien
+9;1;08/01/2019 18:32;candidate;category;contract;Marakech
+10;3;03/01/2019 01:49;entreprise;key_words;candidat;autres_informatique
+11;68;12/02/2019 18:30;candidate;category;stage préembauche;Rabat
+12;77;14/02/2019 17:31;candidate;category;stage préembauche;Informatique
+13;42;23/02/2019 18:34;entreprise;key_words;candidat;Responsable recrutemment
+14;83;27/03/2019 07:54;entreprise;key_words;candidat;autres_production
+15;7;04/04/2019 22:33;candidate;key_words;stage PFE;autres_informatique
+16;14;14/02/2019 11:53;candidate;key_words;stage préembauche;Responsable marketing
+17;93;26/01/2019 18:07;entreprise;category;candidat;Commercial/vente
+18;70;02/02/2019 22:28;entreprise;key_words;candidat;Télévendeur
+19;44;07/03/2019 22:58;entreprise;category;candidat;Agadir
+20;26;24/03/2019 19:58;entreprise;key_words;candidat;Responsable recrutemment
+21;65;17/03/2019 08:51;entreprise;category;candidat;Marakech
+22;21;21/03/2019 13:10;entreprise;key_words;candidat;Hôtesse
+23;51;28/01/2019 08:59;entreprise;category;candidat;Développeur
+24;9;14/01/2019 06:59;candidate;category;stage préembauche;Technicien
+25;5;13/01/2019 15:48;entreprise;key_words;candidat;Responsable commercial
+26;50;29/03/2019 17:53;candidate;key_words;stage préembauche;Responsable marketing
+27;32;19/01/2019 15:18;entreprise;category;candidat;Algeria
+28;67;21/01/2019 19:28;entreprise;category;candidat;Espagne
+29;36;30/03/2019 19:45;entreprise;key_words;candidat;autres_commercial
+30;20;26/02/2019 18:40;entreprise;key_words;candidat;Responsable commercial
+31;10;04/03/2019 22:26;candidate;key_words;stage préembauche;Community manager
+32;64;26/01/2019 19:45;entreprise;category;candidat;Informatique
+33;46;01/04/2019 22:45;entreprise;key_words;candidat;Technicien
+34;16;16/02/2019 18:56;candidate;category;stage préembauche;France
+35;29;05/02/2019 16:49;entreprise;category;candidat;autres_informatique
+36;24;02/03/2019 21:11;candidate;key_words;stage préembauche;autres_tourisme
+37;23;25/03/2019 10:56;entreprise;key_words;candidat;autres_marketing
+38;80;04/03/2019 14:08;entreprise;key_words;candidat;Développeur
+39;48;03/04/2019 07:36;candidate;key_words;stage préembauche;Responsable recrutemment
+40;76;02/01/2019 00:27;entreprise;key_words;candidat;autres_tourisme
+41;49;21/03/2019 10:25;candidate;category;stage PFE;Agadir
+42;52;23/01/2019 17:57;candidate;key_words;stage PFE;Responsable recrutemment
+43;89;08/01/2019 02:30;entreprise;key_words;candidat;autres_production
+44;43;09/03/2019 11:55;candidate;key_words;stage PFE;Responsable marketing
+45;54;24/02/2019 17:14;entreprise;key_words;candidat;Comptable
+46;27;17/01/2019 19:36;candidate;key_words;contract;autres_RH
+47;72;02/01/2019 19:08;candidate;category;stage PFE;Algeria
+48;33;22/02/2019 13:57;candidate;category;stage PFE;RH
+49;12;07/02/2019 10:52;candidate;key_words;stage préembauche;autres_informatique
+50;34;14/01/2019 22:50;candidate;key_words;stage préembauche;Technicien
+51;78;11/02/2019 22:33;entreprise;category;candidat;Agadir
+52;92;30/01/2019 17:43;entreprise;category;candidat;Rabat
+53;15;02/04/2019 11:35;entreprise;key_words;candidat;autres_production
+54;55;29/03/2019 16:36;candidate;category;stage PFE;Marketing
+55;98;08/01/2019 17:30;entreprise;category;candidat;Espagne
+56;56;04/03/2019 19:09;entreprise;key_words;candidat;autres_RH
+57;61;08/03/2019 23:38;candidate;category;contract;Commercial/vente
+58;99;08/02/2019 22:35;candidate;key_words;stage préembauche;Télévendeur
+59;88;03/02/2019 21:40;entreprise;key_words;candidat;Technicien
+60;60;17/03/2019 01:02;entreprise;category;candidat;autres_informatique
+61;31;22/01/2019 03:56;candidate;category;contract;Marketing
+62;95;23/02/2019 21:33;entreprise;key_words;candidat;Community manager
+63;35;03/01/2019 19:52;candidate;key_words;contract;Responsable commercial
