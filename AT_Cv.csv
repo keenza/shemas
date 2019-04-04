@@ -1,0 +1,31 @@
+AT_Cv_Id;AT_User_Id_cv;AT_Educations;AT_Experiences;AT_Languages;AT_Skills;AT_Certificates;AT_Projects
+0;49;doctorat;3;['Deutsch', 'Spanish'];['esprit d’équipe', 'calcul', 'office'];0;22
+1;48;bac;20;['French', 'Arabe', 'Deutsch', 'English', 'Spanish', 'Chinese'];['confidentialité', 'esprit d’équipe', 'rigueur'];8;1
+2;86;bac+1;23;['Spanish', 'French', 'Chinese', 'English'];['rigueur', 'organisation'];3;5
+3;10;licence;30;['French', 'Chinese', 'Arabe'];['organisation', 'esprit d’équipe'];5;12
+4;68;bac+1;14;['Chinese', 'Spanish', 'French', 'Arabe', 'English', 'Deutsch'];['initiative', 'good presentation', 'esprit d’équipe', 'organisation', 'rigueur', 'confidentialité'];1;1
+5;1;bac+4;22;['Deutsch', 'English', 'French'];['confidentialité', 'esprit d’équipe', 'organisation'];1;17
+6;14;doctorat;20;['Deutsch', 'Spanish'];['rigueur', 'good presentation', 'organisation', 'esprit d’équipe'];4;21
+7;12;bac+4;15;['French', 'Spanish'];['confidentialité', 'esprit d’équipe', 'rigueur'];2;28
+8;40;licence;24;['French', 'Deutsch', 'English'];['esprit d’équipe'];6;3
+9;9;bac;28;['French', 'Chinese', 'Spanish'];['rigueur'];10;0
+10;30;bac+2;22;['Deutsch', 'Spanish'];['esprit d’équipe'];10;1
+11;50;bac+2;22;['English', 'Deutsch', 'French', 'Chinese', 'Spanish'];['esprit d’équipe', 'calcul', 'comptabilité', 'organisation', 'confidentialité', 'office'];5;21
+12;13;doctorat;29;['Deutsch', 'Arabe'];['good presentation', 'organisation', 'esprit d’équipe'];3;18
+13;8;bac+4;18;['Chinese', 'Arabe'];['confidentialité', 'comptabilité', 'calcul', 'organisation'];8;13
+14;35;bac+4;4;['English', 'Deutsch', 'French', 'Chinese'];['rigueur', 'python', 'organisation', 'SGBD', 'esprit d’équipe', '.net', 'php', 'R'];1;4
+15;77;bac;10;['Chinese', 'Deutsch', 'French', 'Spanish', 'Arabe', 'English'];['calcul', 'esprit d’équipe'];5;25
+16;52;bac+1;7;['Arabe', 'French', 'Deutsch'];['rigueur', 'esprit d’équipe', 'confidentialité'];3;23
+17;24;bac+2;26;['Chinese'];['esprit d’équipe', 'confidentialité', 'organisation', 'rigueur'];5;27
+18;16;bac+4;15;['Arabe', 'Spanish'];['rigueur', 'comptabilité', 'confidentialité', 'calcul'];1;23
+19;43;bac+4;26;['Spanish', 'French', 'Deutsch', 'English', 'Chinese', 'Arabe'];['calcul', 'comptabilité', 'confidentialité', 'organisation', 'esprit d’équipe', 'office'];2;30
+20;55;doctorat;2;['French', 'Chinese', 'English', 'Arabe', 'Spanish'];['good presentation', 'organisation', 'esprit d’équipe', 'rigueur', 'confidentialité'];9;6
+21;7;licence;16;['English', 'Deutsch', 'French', 'Spanish'];['organisation', 'esprit d’équipe', 'rigueur', 'confidentialité'];4;17
+22;99;bac+2;3;['Chinese', 'English'];['good presentation', 'organisation'];4;9
+23;31;bac+2;9;['Deutsch', 'English', 'Arabe', 'French', 'Spanish', 'Chinese'];['confidentialité', 'esprit d’équipe'];10;5
+24;61;licence;6;['Chinese', 'Arabe', 'English'];['php', 'python', 'esprit d’équipe', 'confidentialité', 'organisation', '.net', 'rigueur', 'R'];5;8
+25;33;bac+2;25;['Deutsch', 'English', 'Spanish', 'Chinese', 'Arabe'];['office', 'confidentialité', 'organisation', 'rigueur'];8;21
+26;34;master;0;['French'];['organisation', 'esprit d’équipe', 'confidentialité', 'rigueur'];9;26
+27;28;bac+4;27;['Chinese', 'French', 'Deutsch', 'Spanish', 'Arabe', 'English'];['confidentialité', 'good presentation', 'initiative', 'organisation'];2;18
+28;27;master;7;['Deutsch'];['R', '.net', 'organisation', 'java', 'esprit d’équipe', 'rigueur'];2;20
+29;72;bac+4;30;['Arabe', 'Chinese', 'French', 'Deutsch', 'English', 'Spanish'];['rigueur', 'initiative', 'good presentation', 'confidentialité', 'esprit d’équipe', 'organisation'];2;19
